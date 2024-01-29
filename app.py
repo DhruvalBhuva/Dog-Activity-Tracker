@@ -24,7 +24,6 @@ def main():
 
     if main_menu == "Paper":
         st.title("Paper")
-        st.title("Paper")
 
     elif main_menu == "Data Analysis":
         st.title("Data Analysis")
